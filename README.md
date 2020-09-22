@@ -4,3 +4,4 @@ Technologies used
   Flexbox
   CSS Grid
   BEM methodology
+  [DEMO LINK](https://sobchuksasha.github.io/layout_miami/)
